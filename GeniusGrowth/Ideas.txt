@@ -1,0 +1,39 @@
+ --------------- IDEA FILES ---------------
+
+
+The number of file: 1
+ ------------------------------------------
+Idea: gg
+description: acmd m;ldmca
+Ownername: afnan
+State: Accept
+Favorite: true
+
+
+The number of file: 2
+ ------------------------------------------
+Idea: 3
+description: 
+Ownername: 3
+State: waiting
+Favorite: false
+
+
+The number of file: 3
+ ------------------------------------------
+Idea: 3
+description: 3
+Ownername: 33
+State: waiting
+Favorite: false
+
+
+The number of file: 4
+ ------------------------------------------
+Idea: 3
+description: 3
+Ownername: 3
+State: waiting
+Favorite: false
+
+
